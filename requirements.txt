@@ -1,0 +1,5 @@
+scikit-image==0.18.1
+imutils==0.5.4
+opencv-python==4.5.4.58
+pillow
+requests
